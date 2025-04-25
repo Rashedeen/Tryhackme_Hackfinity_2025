@@ -3,6 +3,11 @@
 ## Category
 OSINT / Cryptography
 
+## Tools Used
+- Pigpen cipher decoder (online)
+- Google Search / Maps
+
+
 ## Objective
 Analyze a picture of graffiti art to find the hidden location. The flag is based on the identified place.
 
@@ -23,9 +28,9 @@ Analyze a picture of graffiti art to find the hidden location. The flag is based
 ![Pigpen Cipher Message](ss/Cipher.png)
 
 
+![Batman](ss/TORI.png)
+
 ## Flag Format
 `THM{name_of_location}`
 
-## Tools Used
-- Pigpen cipher decoder (online)
-- Google Search / Maps
+
